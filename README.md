@@ -3,14 +3,14 @@
 I also user WSL2 - Ubuntu for a faster and secure development for full stack web and application development.
 I collaborate with future devs using notion and jira.
 
-🌱 I’m currently learning web, mobile, and software application development with programming languages such as;
-Web Development: PHP, JavaScript.  Mobile Application Development: Dart.  Software Application Development: C#
-👯 I’m looking to collaborate on React, Angular, Laravel, CodeIgniter4, Symfony, and other programming languages related to web, mobile, and software application.
-🤔 I’m looking for help with development and also for improving my skills in my field.
-💬 Ask me about anything that is related in my field.
-📫 How to reach me: Communication application platforms.
-😄 Pronouns: He, His, Him.
-⚡ Fun fact: I play online games and chess.
+🌱 I’m currently learning web, mobile, and software application development with programming languages such as;<br>
+Web Development: PHP, JavaScript.  Mobile Application Development: Dart.  Software Application Development: C#<br>
+👯 I’m looking to collaborate on React, Angular, Laravel, CodeIgniter4, Symfony, and other programming languages related to web, mobile, and software application.<br>
+🤔 I’m looking for help with development and also for improving my skills in my field.<br>
+💬 Ask me about anything that is related in my field.<br>
+📫 How to reach me: Communication application platforms.<br>
+😄 Pronouns: He, His, Him.<br>
+⚡ Fun fact: I play online games and chess.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmtl.jmdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-miguel-tagle-lahorra-289573344/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31587747) 
