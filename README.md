@@ -1,9 +1,7 @@
 # 💫 About Me:
 I am JM, JMDevStack is my developer name and I am an aspiring professional full stack developer.<br>When my college journey comes to a near end, I started over with experience on web development and transitioned from a stack to another for more scalable, wide ranged, and on demand stack.
 
-<p align="center">
-  <img src="https://media.tenor.com/7P2JzG5x3LQAAAAC/programmer-coding.gif" width="400" />
-</p>
+![dev-meme](https://github.com/user-attachments/assets/b3fb0232-2472-42d1-94ea-b33723614732)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmtl.jmdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmdev.webdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juan-miguel-tagle-lahorra-289573344) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jmdev11webdev) 
