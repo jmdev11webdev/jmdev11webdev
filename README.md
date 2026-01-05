@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am JM, JMDevStack is my developer name and I am an aspiring professional full stack developer.<br>When my college journey comes to a near end, I started over with experience on web development and transitioned from a stack to another for more scalable, wide ranged, and on demand stack.
+I am JM, JMDevStack is my developer name and I am an aspiring full stack developer.<br>When my college journey comes to a near end, I started over with experience on web development and transitioned from a stack to another for much scalable, wide-ranged, and on demand stack.
 
 <img src="https://github.com/user-attachments/assets/b3fb0232-2472-42d1-94ea-b33723614732" width="400">
 
