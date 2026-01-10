@@ -1,5 +1,5 @@
 # 💫 About JMDEVSTACK:
-I am an aspiring full stack web developer who creates solutions from creative ideas which can be for a capstone, business, e-commerce, enterprise, and real-world app.
+I am an aspiring full stack web developer who creates solutions from creative ideas which can be for a capstone, business, e-commerce, enterprise, and real-world web application.
 
 
 ## 🌐 Socials:
