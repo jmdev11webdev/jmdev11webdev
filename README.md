@@ -1,1 +1,1 @@
-I use github to showcase and be as a evidence of my works as a bsit major in web development student and is a software enthusiast.
+I use github to showcase and bserve as an evidence of my works as a an IT & major in web development student and is a software enthusiast.
