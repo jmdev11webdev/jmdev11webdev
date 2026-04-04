@@ -28,4 +28,4 @@ You can visit my old github account at <a href="https://www.github.com/migslahor
 
 Deployed Live Projects and Productions:
 <a href="https://snipx.laravel.cloud">Snipx</a>
-Deployed Open Source Projects: 
+<br> Deployed Open Source Projects: 
