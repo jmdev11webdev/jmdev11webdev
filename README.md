@@ -19,9 +19,8 @@ You can visit my old github account at <a href="https://www.github.com/migslahor
   <img alt="image" src="https://github.com/user-attachments/assets/30b4310a-e570-4ae7-be59-57844f29d0de" width="40" height="40" />
   <img alt="image" src="https://github.com/user-attachments/assets/3a03c88a-808f-419f-b123-9abee5194c7d" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-          
 </p>
 
  For online open-source collaboration:
