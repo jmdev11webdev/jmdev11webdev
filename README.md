@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laraveljetstream/laraveljetstream-original.svg" width="40" height="40"/>
   <img width="40" height="40" alt="white_lines_transparent" src="https://github.com/user-attachments/assets/041ceb09-703b-4694-bf1b-6f877ccb105a" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img alt="image" src="https://github.com/user-attachments/assets/4ec07c7a-1001-45d8-8f04-1206107c6f41" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
