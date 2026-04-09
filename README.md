@@ -1,4 +1,5 @@
-New account and using github to serve as an evidence of my works on web development with Laravel and PHP. To also be flexible for other platforms like mobile and desktop applications, I am learning to widen my grasp on other programming languages that are required on using the IDE. You can visit my old github account at <a href="https://www.github.com/migslahorra">migslahorra</a> as this account is new and is a fresh start for me on my new dev journey with PHP and Laravel.
+<p stlye="text-align:justify">New account and using github to serve as an evidence of my works on web development with Laravel and PHP. To also be flexible for other platforms like mobile and desktop applications, I am learning to widen my grasp on other programming languages that are required on using the IDE. You can visit my old github account at <a href="https://www.github.com/migslahorra">migslahorra</a> as this account is new and is a fresh start for me on my new dev journey with PHP and Laravel.
+</p>
 
 <div align="left" style="display:flex; justify-content:space-between; align-items:center">
   <div>
