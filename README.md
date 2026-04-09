@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laraveljetstream/laraveljetstream-original.svg" width="40" height="40"/>
-  <img alt="flux" src="https://github.com/user-attachments/assets/8f605509-102a-457d-a600-91721f0416d9" width="40" height="40"/>
+  <img alt="image" src="https://github.com/user-attachments/assets/5b4d49c4-727d-4a61-8b02-289402c59d47" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img alt="image" src="https://github.com/user-attachments/assets/4ec07c7a-1001-45d8-8f04-1206107c6f41" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
