@@ -20,7 +20,7 @@ This is a new account and I'm using github to serve as an evidence of my works o
 
  For online open-source collaboration:
  <a href="https://www.notion.so/33730235f7138067a41bf73cdcd720bcv=33730235f71380a7849e000c13f40d0a">Notion Open Source Projects</a> <br>
- For business inquries:  📧jmdevstack@gmail.com
+ For inquries:  📧jmdevstack@gmail.com
 
 Deployed Live Projects and Productions:
 <a href="https://snipx.laravel.cloud">Snipx</a>
