@@ -1,6 +1,3 @@
-<p stlye="text-align:justify">Account for evidence of work, PHP and Laravel, old account: <a href="https://www.github.com/migslahorra">migslahorra</a> and account is for the new dev joureny with PHP, Laravel, and new chosen stack.
-</p>
-
 <div align="center" align-items:center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> 
@@ -23,9 +20,7 @@
           
 </div> 
 
- For online open-source collaboration:
- <a href="https://www.notion.so/33730235f7138067a41bf73cdcd720bcv=33730235f71380a7849e000c13f40d0a">Notion Open Source Projects</a> <br>
- For inquries:  📧jmdevstack@gmail.com
+For inquries:  📧jmdevstack@gmail.com
 
 Deployed Live Projects and Productions:
 <a href="https://snipx.laravel.cloud">Snipx</a>
