@@ -17,11 +17,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img alt="image" src="https://github.com/user-attachments/assets/3a03c88a-808f-419f-b123-9abee5194c7d" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" />
-          
 </div> 
-
-For inquries:  📧jmdevstack@gmail.com
-
-Deployed Live Projects and Productions:
-<a href="https://snipx.laravel.cloud">Snipx</a>
-<br> Deployed Open Source Projects: 
