@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on a production project with Laravel<br>I am looking to collaborate for my open source projects soon<br>I am looking for help with UI & UX designs for skill development<br>I'm currently learning PHP, JavaScript, and Laravel ecosystem and I use github to serve as an evidence of my works and showcase of my projects and experience in programming and development, for inquiries email: lahorrajm21@gmail.com
+<p style="text-align:justify;">
+I'm currently working on a production project with Laravel, looking to collaborate for any open source projects soon including mine, for help with UI & UX designs for designing skill improvement, also am currently learning PHP, JavaScript, and Laravel ecosystem and I use github to serve as an evidence of my works and showcase of my projects and experience in programming and development, for inquiries email: lahorrajm21@gmail.com
+</p>
 
 
 ## 🌐 Socials:
