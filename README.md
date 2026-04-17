@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p style="text-align:justify;">
-I'm currently working on a production project with Laravel, looking to collaborate for any open source projects soon including mine, for help with UI & UX designs for designing skill improvement, also am currently learning PHP, JavaScript, and Laravel ecosystem and I use github to serve as an evidence of my works and showcase of my projects and experience in programming and development.
+Laravel developer working on a production project, focusing on PHP, JavaScript, and the Laravel ecosystem (TALL stack, Livewire, Flux). Experienced with Next.js, Angular, and TypeScript. Open to open-source collaboration, especially in UI/UX. GitHub serves as my portfolio and proof of work. Visit my web portfolio for visualized web portfolio <a href="https://jmdevstack.laravel.com">jmdevstack.laravel.com</a>
 </p>
 
 For inquiries email: lahorrajm21@gmail.com
