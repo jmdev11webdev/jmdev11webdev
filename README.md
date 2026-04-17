@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p style="text-align:justify;">
-Laravel developer working on a production project, focusing on PHP, JavaScript, and the Laravel ecosystem (TALL stack, Livewire, Flux). Experienced with Next.js, Angular, and TypeScript. Open to open-source collaboration, especially in UI/UX. GitHub serves as my portfolio and proof of work. Visit my web portfolio for visualized web portfolio <a href="https://jmdevstack.laravel.com">jmdevstack.laravel.com</a>
+Laravel developer working on a production project, focusing on PHP, JavaScript, and the Laravel ecosystem (TALL stack, Livewire, Flux). Experienced with Next.js, Angular, and TypeScript. Open to open-source collaboration, especially in UI/UX. GitHub serves as my portfolio and proof of work. Visit my web portfolio for visualized web portfolio <a href="https://jmdevstack.laravel.com">jmdevstack.laravel.com</a>, and my old github account <a href="https://www.github.com/migslahorra">migslahorra</a>
 </p>
 
 For inquiries email: lahorrajm21@gmail.com
