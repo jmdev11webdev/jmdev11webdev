@@ -1,4 +1,4 @@
-📧 Email [jmdevstack@gmail.com](mailto:lahorrajm@gmail.com) for inquiries &nbsp;|&nbsp; 📋 [Open Source Projects](https://www.notion.so/33730235f7138067a41bf73cdcd720bc?v=33730235f71380a7849e000c13f40d0a) on Notion for open source and collaboration projects
+📧 Email [lahorrajm@gmail.com](mailto:lahorrajm@gmail.com) for inquiries &nbsp;|&nbsp; 📋 [Open Source Projects](https://www.notion.so/33730235f7138067a41bf73cdcd720bc?v=33730235f71380a7849e000c13f40d0a) on Notion for open source and collaboration projects
 
 ---
 
