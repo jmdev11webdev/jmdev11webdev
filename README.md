@@ -1,6 +1,6 @@
 Email jmdevstack@gmail.com for inquries | Notion for open source and collaboration projects <a href="https://www.notion.so/33730235f7138067a41bf73cdcd720bc?v=33730235f71380a7849e000c13f40d0a">Open Source Projects</a> <br>
 Tools
-<div align="center">
+<div align="center" style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
