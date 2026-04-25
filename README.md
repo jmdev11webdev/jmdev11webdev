@@ -21,6 +21,6 @@ Projects: <a href="https://snipx.laravel.cloud">Snipx</a> | <a href="https://col
   &nbsp;
   <img src="https://github.com/user-attachments/assets/ac7f72d1-f632-47b5-800b-77659fe16a25" width="40" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" />        
   &nbsp;
 </p>
