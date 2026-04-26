@@ -15,6 +15,8 @@ Projects: <a href="https://snipx.laravel.cloud">Snipx</a> | <a href="https://col
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="40" />
   &nbsp;
+  <img width="200" height="200" alt="130286900" src="https://github.com/user-attachments/assets/c7a004c7-fb34-49dd-92c0-03c1799ac3a8" width="40" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" />
