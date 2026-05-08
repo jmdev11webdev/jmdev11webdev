@@ -19,11 +19,4 @@ My Web Portfolio <a href="https://jmdevstack.laravel.cloud">JMDEVSTACK</a>
   <img alt="130286900" src="https://github.com/user-attachments/assets/c7a004c7-fb34-49dd-92c0-03c1799ac3a8" width="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" />
-  &nbsp;
-  <img src="https://github.com/user-attachments/assets/ac7f72d1-f632-47b5-800b-77659fe16a25" width="40" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" />        
-  &nbsp;
 </p>
