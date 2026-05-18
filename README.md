@@ -1,4 +1,5 @@
-<strong>Email:</strong> itsjmlahorra@gmail.com for inquiries / <strong>Projects:</strong> <a href="https://snipx.laravel.cloud">Snipx</a> / 
+<strong>Email:</strong> itsjmlahorra@gmail.com for inquiries <br> 
+<strong>Projects:</strong> <a href="https://snipx.laravel.cloud">Snipx</a> <br> 
 <a href="https://jmdevstack.laravel.cloud">Web Portfolio</a>
 
 <div style="display:flex;">
