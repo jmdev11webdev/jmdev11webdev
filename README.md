@@ -1,6 +1,6 @@
 <strong>Email:</strong> itsjmlahorra@gmail.com for inquiries <br> 
 <strong>Projects:</strong> <a href="https://snipx.laravel.cloud">Snipx</a> <br> 
-<a href="https://jmdevstack.laravel.cloud">Web Portfolio</a>
+<strong>Wev Portfolio:</strong> <a href="https://jmdevstack.laravel.cloud">jmdevstack</a>
 
 <div style="display:flex;justify-content:center;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
