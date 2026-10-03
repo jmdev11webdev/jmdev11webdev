@@ -9,6 +9,6 @@
 - I also use JavaScript and TypeScript with NEXT.JS framework as an option for frontend development like websites and portfolios.
 
 # What I do?
-- I design and build systems for a real-world use through SaaS applications with.
+- I design and build systems for a real-world use through SaaS applications with Laravel.
 - I design and build websites for individual and business clients.
 - I code not just as a hobby but also to build a strong foundation.
